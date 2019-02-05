@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hana.iml" filepath="$PROJECT_DIR$/hana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hana-core/hana-core.iml" filepath="$PROJECT_DIR$/hana-core/hana-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hana-dao/hana-dao.iml" filepath="$PROJECT_DIR$/hana-dao/hana-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hana-model/hana-model.iml" filepath="$PROJECT_DIR$/hana-model/hana-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hana-parent/hana-parent.iml" filepath="$PROJECT_DIR$/hana-parent/hana-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hana-server/hana-server.iml" filepath="$PROJECT_DIR$/hana-server/hana-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hana-service/hana-service.iml" filepath="$PROJECT_DIR$/hana-service/hana-service.iml" />
+    </modules>
+  </component>
+</project>

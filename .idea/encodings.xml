@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hana-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hana-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hana-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hana-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hana-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hana-service" charset="UTF-8" />
+  </component>
+</project>

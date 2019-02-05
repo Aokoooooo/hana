@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hana-core" />
+        <module name="hana-dao" />
+        <module name="hana-model" />
+        <module name="hana-server" />
+        <module name="hana-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hana" target="1.8" />
+      <module name="hana-core" target="1.8" />
+      <module name="hana-dao" target="1.8" />
+      <module name="hana-model" target="1.8" />
+      <module name="hana-parent" target="1.8" />
+      <module name="hana-server" target="1.8" />
+      <module name="hana-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hana" options="-parameters" />
+      <module name="hana-core" options="-parameters" />
+      <module name="hana-dao" options="-parameters" />
+      <module name="hana-model" options="-parameters" />
+      <module name="hana-parent" options="-parameters" />
+      <module name="hana-server" options="-parameters" />
+      <module name="hana-service" options="-parameters" />
+    </option>
+  </component>
+</project>

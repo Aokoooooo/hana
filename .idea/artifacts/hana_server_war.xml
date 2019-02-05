@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hana-server:war">
+    <output-path>$PROJECT_DIR$/hana-server/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hana-server</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hana-server-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hana-server:war exploded" />
+    </root>
+  </artifact>
+</component>
